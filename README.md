@@ -1,2 +1,2 @@
 # binaryServers
-这是一个服务
+二进制私有源仓库
